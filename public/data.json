@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Camera",
+    "description": "A classic 1970s film camera in great condition.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 days Left",
+    "bidsCount": 8,
+    "image": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 2,
+    "title": "Gaming Laptop",
+    "description": "RTX 4070, Intel i9, 32GB RAM — perfect for gaming and work.",
+    "currentBidPrice": 2.85,
+    "timeLeft": "5 Days Left",
+    "bidsCount": 15,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1171"
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "description": "Water-resistant smartwatch with heart rate and sleep tracking.",
+    "currentBidPrice": 285.0,
+    "timeLeft": "1 h Left",
+    "bidsCount": 5,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1180"
+  },
+  {
+    "id": 4,
+    "title": "Electric Guitar",
+    "description": "Fender Stratocaster with amplifier and strap included.",
+    "currentBidPrice": 2.85,
+    "timeLeft": "3h Left",
+    "bidsCount": 11,
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1142"
+  },
+
+  {
+    "id": 5,
+    "title": "Mountain Bike",
+    "description": "21-speed aluminum frame mountain bike with disc brakes.",
+    "currentBidPrice": 28.5,
+    "timeLeft": "7days Left",
+    "bidsCount": 6,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1167"
+  },
+  {
+    "id": 6,
+    "title": "Apple iPhone 15 Pro",
+    "description": "256GB, Titanium finish, latest A17 chip with excellent camera.",
+    "currentBidPrice": 2850,
+    "timeLeft": "4 Days Left",
+    "bidsCount": 18,
+
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+
+  {
+    "id": 7,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+    "currentBidPrice": 2875,
+    "timeLeft": "6h Left",
+    "bidsCount": 9,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1165"
+  }
+]
