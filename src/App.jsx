@@ -6,6 +6,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import { FaRegHeart } from "react-icons/fa";
 import Footer from "./Components/Footer/Footer";
 import { ImCross } from "react-icons/im";
+import { Toaster, toast } from "react-hot-toast";
 
 function App() {
   const [favorateItem, setFavorateItem] = useState([]);
@@ -13,6 +14,7 @@ function App() {
 
   const getFavorateItem = (item) => {
     setFavorateItem((prev) => [...prev, item]);
+    toast.success(`${item.title} added to favorites!`);
   };
 
   const getTotalAmount = (newAmount) => {
@@ -22,6 +24,7 @@ function App() {
   const removeItem = (id) => {
     const newFavId = favorateItem.filter((item) => item.id !== id);
     setFavorateItem(newFavId);
+    toast.error(`Remove to favorites!`);
   };
 
   return (
@@ -99,6 +102,7 @@ function App() {
         </div>
       </div>
       <Footer />
+      <Toaster position="top-right" />
     </>
   );
 }
